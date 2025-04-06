@@ -6,10 +6,9 @@ File Throw is a minimalist, privacy-focused file sharing web application where u
 
 ## 🚀 Features
 
-- 🔐 One-time file download links             
+- 🔐 One-time file download hashes             
 - 📦 Files are stored securely via AWS S3
-- 🧊 Optional password protection (encrypted
-- 🎨 Clean, professional UI with dark theme
+- 🧊 Optional password protection (encrypted)
 - 📁 Frontend in React.js + Vite
 - 🔧 Backend in Flask (Python)
 
@@ -33,7 +32,7 @@ File Throw is a minimalist, privacy-focused file sharing web application where u
 
 ---
 
-## Installation
+## 🧑🏻‍💻 Installation
 
 ### Backend Setup
 ```
