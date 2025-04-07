@@ -32,7 +32,7 @@ File Throw is a minimalist, privacy-focused file sharing web application where u
 
 ---
 
-## 🎥 Preview
+## 🎥 Demo
 ![Image](https://github.com/user-attachments/assets/98112f29-e52e-4757-a2f2-3196e1dee490)
 
 ## 🧑🏻‍💻 Installation
