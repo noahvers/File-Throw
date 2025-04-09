@@ -1,6 +1,6 @@
 # 📂 File Throw
 
-File Throw is a minimalist, privacy-focused file sharing web application where users can upload files, generate a one-time hash-based download link, and share it securely. Files are burned (deleted) after download.
+File Throw is a minimalist, privacy-focused file sharing web application where users can upload files, generate a one-time hash-based download link, and share it securely. Files are burned (deleted) after download (In Development).
 
 ---
 
